@@ -2,6 +2,12 @@
 import urllib
 import re
 
+
+
+
+'''
+爬取贴吧图片并保存到d盘
+'''
 def getHtmlContent(url):
     page = urllib.urlopen(url)
     return page.read()
