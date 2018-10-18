@@ -7,6 +7,8 @@ import re
 
 '''
 爬取贴吧图片并保存到d盘
+
+创建新的分支dev
 '''
 def getHtmlContent(url):
     page = urllib.urlopen(url)
