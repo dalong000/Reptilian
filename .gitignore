@@ -2,4 +2,4 @@
 venv
 
 #ide
-.idea
+.idea/workspace.xml
