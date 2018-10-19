@@ -1,6 +1,15 @@
+#######
 #python
 venv
+########
 
+
+
+########
 #ide
+########
+
+
+.idea
 .idea/workspace.xml
 workspace.xml
